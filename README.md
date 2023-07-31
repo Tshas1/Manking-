@@ -1,9 +1,9 @@
 # Manking-
 Mankind_Activities
 ---
-title: "Human Activity Prediction with R"
-author: "Benedict Neo"
-date: January 24, 2021
+title: "Manking Activity Prediction with R"
+author: "Sandile Tshazibana"
+date: July 31, 2023
 output:
   html_document:
     toc: true
